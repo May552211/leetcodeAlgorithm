@@ -1,0 +1,27 @@
+﻿生成启动时间为 2019/3/19 7:20:01。
+     1>项目“F:\Lab\leetcodeStudy\leetCode\leetCode\leetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Solution.cpp
+         Solution.cpp
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(63): warning C4101: “sellTime”: 未引用的局部变量
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(82): warning C4018: “<=”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(141): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(90): warning C4715: “Solution::singleNumber”: 不是所有的控件路径都返回值
+     1>f:\lab\leetcodestudy\leetcode\leetcode\solution.cpp(108): warning C4715: “Solution::twoSum”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Lab\leetcodeStudy\leetCode\Debug\leetCode.exe" /INCREMENTAL /NOLOGO opencv_calib3d340d.lib opencv_core340d.lib opencv_dnn340d.lib opencv_features2d340d.lib opencv_flann340d.lib opencv_highgui340d.lib opencv_imgcodecs340d.lib opencv_imgproc340d.lib opencv_ml340d.lib opencv_objdetect340d.lib opencv_photo340d.lib opencv_shape340d.lib opencv_stitching340d.lib opencv_superres340d.lib opencv_video340d.lib opencv_videoio340d.lib opencv_videostab340d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Lab\leetcodeStudy\leetCode\Debug\leetCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Lab\leetcodeStudy\leetCode\Debug\leetCode.lib" /MACHINE:X86 Debug\Solution.obj
+         Debug\test.obj
+         leetCode.vcxproj -> F:\Lab\leetcodeStudy\leetCode\Debug\leetCode.exe
+     1>已完成生成项目“F:\Lab\leetcodeStudy\leetCode\leetCode\leetCode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36
